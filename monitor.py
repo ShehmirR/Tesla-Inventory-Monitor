@@ -3,7 +3,7 @@ import time
 import datetime
 from dhooks import Webhook, Embed
 
-webhook = "https://discord.com/api/webhooks/720137064607383553/NwBv0Ze04NN6RZwxHWP4GWLN-w1GwTq2zsKFxmjaTHanXwVuP-94hZO55eprgKNO_u6p"
+webhook = "WEBHOOK_HERE"
 sleep_time = 300
 Current_VINS = {}
 # {
